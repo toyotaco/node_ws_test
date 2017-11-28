@@ -1,2 +1,2 @@
 # node_ws_test
-websocket test with node.js
+This is a websocket test project using node.js.
